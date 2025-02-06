@@ -3,7 +3,7 @@ About
 This is a Java-based Sudoku game that allows users to generate, play, and solve Sudoku puzzles with different difficulty levels. It includes real-time validation, solution display, and time tracking for an engaging experience.
 
 🎮 Features
-✅ Five Difficulty Levels (Easy to Extreme)
+✅Five Difficulty Levels (Easy to Extreme)
 ✅ Sudoku Board Generator with missing numbers
 ✅ User Input Validation to ensure correct entries
 ✅ Solution Display option if needed
@@ -17,7 +17,7 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/sudoku-game.git
+[git clone https://github.com/your-username/sudoku-game.git](https://github.com/EnikepalliGeethaSree/SudukoGame_Solver)
 cd sudoku-game
 Compile the Java file:
 bash
