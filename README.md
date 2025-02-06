@@ -4,9 +4,13 @@ This is a Java-based Sudoku game that allows users to generate, play, and solve 
 
 🎮 Features
 ✅Five Difficulty Levels (Easy to Extreme)
+
 ✅ Sudoku Board Generator with missing numbers
+
 ✅ User Input Validation to ensure correct entries
+
 ✅ Solution Display option if needed
+
 ✅ Time Tracking to measure puzzle-solving speed
 
 🛠 Installation & Usage
@@ -15,19 +19,12 @@ Java 8 or later installed on your system
 🔹 Run the Game
 Clone this repository:
 bash
-Copy
-Edit
 [git clone https://github.com/your-username/sudoku-game.git](https://github.com/EnikepalliGeethaSree/SudukoGame_Solver)
 cd sudoku-game
 Compile the Java file:
 bash
-Copy
-Edit
 javac Sudokulevel.java
 Run the game:
-bash
-Copy
-Edit
 java Sudokulevel
 🎯 How to Play
 Select Difficulty Level: Choose from 1 (Easy) to 5 (Extreme).
@@ -35,6 +32,7 @@ Solve the Puzzle: Enter row, column, and number to fill empty cells.
 Check Your Moves: The program validates inputs automatically.
 Reveal Solution (Optional): Enter 0 0 0 if you need the answer.
 Track Time: See how fast you solve the puzzle!
+
 📷 Screenshot (Optional)
 Add a screenshot of your game running in the terminal.
 
